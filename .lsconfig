@@ -1,2 +1,2 @@
 [lfs]
-url = "https://localhost:3000/akashnetwork/testFile"
+url = "http://localhost:3000/akashnetwork/testFile"
